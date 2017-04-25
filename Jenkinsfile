@@ -10,7 +10,7 @@ node {
             extensions: [], submoduleCfg: [],
             userRemoteConfigs: [[
                 name: 'github',
-                url: 'https://github.com/sandeepdroid/sandeep.git
+                url: 'https://github.com/sandeepdroid/sandeep.git'
             ]]
         ])
 
